@@ -1,0 +1,9 @@
+https://tianchi-jupyter-sh.oss-cn-shanghai.aliyuncs.com/file/opensearch/documents/74690/md5.txt?Expires=1668701662&OSSAccessKeyId=LTAI4GGBCQcb7KD7NwKinA3D&Signature=6mjHDPCeNYH64AJbt7q8wTrbJVo%3D
+https://tianchi-jupyter-sh.oss-cn-shanghai.aliyuncs.com/file/opensearch/documents/74690/aliexpress_images_datasets.zip?Expires=1668701676&OSSAccessKeyId=LTAI4GGBCQcb7KD7NwKinA3D&Signature=hkIUGCfoCFi%2FjlB6T6r0b2RmhK4%3D
+https://tianchi-jupyter-sh.oss-cn-shanghai.aliyuncs.com/file/opensearch/documents/74690/aliexpress_NL_datasets.zip?Expires=1668701699&OSSAccessKeyId=LTAI4GGBCQcb7KD7NwKinA3D&Signature=ZbUQZ70%2BtLnaHqRA%2Bs6X99lkEpk%3D
+https://tianchi-jupyter-sh.oss-cn-shanghai.aliyuncs.com/file/opensearch/documents/74690/aliexpress_FR_datasets.zip?Expires=1668701718&OSSAccessKeyId=LTAI4GGBCQcb7KD7NwKinA3D&Signature=A%2Bd2JtpCxPEKLM2QCEJBmebU27M%3D
+
+https://tianchi-jupyter-sh.oss-cn-shanghai.aliyuncs.com/file/opensearch/documents/74690/aliexpress_ES_datasets.zip?Expires=1668701761&OSSAccessKeyId=LTAI4GGBCQcb7KD7NwKinA3D&Signature=f79gWaj9pFeHYzdp7oLdHAH1zJg%3D
+https://tianchi-jupyter-sh.oss-cn-shanghai.aliyuncs.com/file/opensearch/documents/74690/aliexpress_US_datasets.zip?Expires=1668701773&OSSAccessKeyId=LTAI4GGBCQcb7KD7NwKinA3D&Signature=37sWn9PvzD0dd4TlNS%2BEb0SeG8I%3D
+https://tianchi-jupyter-sh.oss-cn-shanghai.aliyuncs.com/file/opensearch/documents/74690/aliexpress_RU_datasets.zip?Expires=1668701813&OSSAccessKeyId=LTAI4GGBCQcb7KD7NwKinA3D&Signature=8dG9EeHk4gElb6hTmYJ%2FS2r0rFE%3D
+https://tianchi-jupyter-sh.oss-cn-shanghai.aliyuncs.com/file/opensearch/documents/74690/aliexpress_datasets.txt?Expires=1668701827&OSSAccessKeyId=LTAI4GGBCQcb7KD7NwKinA3D&Signature=YNsSXJm1UrXGaU2x5Rws304Q0DQ%3D
