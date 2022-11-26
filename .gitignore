@@ -2,11 +2,12 @@
 .vscode
 .fleet
 data/
-datasets/
-dataset/
+# datasets/
+# dataset/
 tmp/
 Huawei/
-
+chkpt
+synthetic_datasets
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
