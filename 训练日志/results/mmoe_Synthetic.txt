@@ -1,0 +1,8 @@
+learning rate: 0.0001
+task 0, Log-loss 0.6122495532035828
+task 1, Log-loss 0.5964549779891968
+
+learning rate: 0.0001
+task 0, Log-loss 1.086039662361145
+task 1, Log-loss 1.0568255186080933
+
